@@ -1,37 +1,22 @@
-# wendang
+# 汉心码学习
 
 #### 介绍
-文档
+汉心码是一种取小字的拼音或双拼打字不用选字，不用选词的方案，也是一种辅助码。
 
-#### 软件架构
-软件架构说明
+#### 使用平台
+汉心快打使用开源软件，或导入到搜狗或手心输入法里使用
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  看官网或点 [下载](https://gitee.com/hanxinma/ruanjian)
 
-#### 使用说明
+#### 学习使用
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+[学习码表图和规则](https://hanxinma.gitee.io/hanxin/medias/img/%E6%B1%89%E5%BF%83%E7%A0%81%E8%AF%A6%E7%BB%86%E7%89%88.jpg)
 
-#### 参与贡献
+详细内容见官网
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+[官网地址1 https://hanxinma.gitee.io/hanxin](https://hanxinma.gitee.io/hanxin/)访问 汉心码官网,汉心快打官网
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+[官网地址2 https://hanxinma.github.io/](https://gitee.com/link?target=https%3A%2F%2Fhanxinma.github.io%2F)访问hanxinma official website,汉心官网,双拼辅助码官网
