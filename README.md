@@ -13,7 +13,7 @@
 
 #### 学习使用
 
-[学习码表图和规则](https://hanxinma.gitee.io/hanxin/medias/img/%E6%B1%89%E5%BF%83%E7%A0%81%E8%AF%A6%E7%BB%86%E7%89%88.jpg)
+[学习码表图和规则](https://hanxinma.gitee.io/medias/img/%E6%B1%89%E5%BF%83%E7%A0%81%E8%AF%A6%E7%BB%86%E7%89%88.jpg)
 
 详细内容见官网
 
