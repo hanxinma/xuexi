@@ -17,6 +17,6 @@
 
 详细内容见官网
 
-[官网地址1 https://hanxinma.gitee.io/](https://hanxinma.gitee.io/)访问 汉心码官网,汉心快打官网
+[官网地址 https://hanxinma.gitee.io/](https://hanxinma.gitee.io/)访问 汉心码官网,汉心快打官网
 
-[官网地址2 https://hanxinma.github.io/](https://hanxinma.github.io/)访问hanxinma official website,汉心官网,双拼辅助码官网
+[官网镜像地址 https://hanxinma.github.io/](https://hanxinma.github.io/)访问hanxinma official website,汉心官网,双拼辅助码官网
